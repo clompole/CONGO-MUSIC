@@ -1,0 +1,15 @@
+BODY{
+  BACKGROUND-COLOR:#EDDA74;
+  color:purple;
+font-family: sans-serif;
+  font-size: 100%;
+}
+
+a {
+    color:green;
+    text-decoration: underline;        
+}   
+
+H2{
+  color:green;
+}
